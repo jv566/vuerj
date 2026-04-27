@@ -8,7 +8,7 @@ import request from '@/utils/http'
 const form = ref({
   account: '',
   password: '',
-})
+})//ssss
 // 2. 准备规则对象
 const rules = {
   account: [

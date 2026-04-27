@@ -34,6 +34,8 @@ onUnmounted(() => {
   <div :style="styleList">
     <RouterView />
   </div>
+
+  <div></div>
 </template>
 
 <style scoped lang="scss">
